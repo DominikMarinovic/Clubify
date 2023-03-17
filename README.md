@@ -6,7 +6,7 @@ It provides an insight for all events in each nightclub and nightbars through th
 
 ### Used tehnologies
 
-- PostgreSQL databse
+- PostgreSQL database
 - Node.js backend
 - React Native frontend
 - Knex.js SQL query builder
